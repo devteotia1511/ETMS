@@ -25,7 +25,7 @@ const Header = (props) => {
 
       <div className='text-center flex-1'>
         <h2 className='text-4xl font-extrabold text-transparent bg-clip-text bg-gradient-to-r from-purple-400 via-emerald-500 to-red-500 uppercase'>
-          LINKSPHERE ETMS
+        ETMS ✦ Control. Track. Succeed.
         </h2>
       </div>
 
