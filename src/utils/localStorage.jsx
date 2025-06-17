@@ -205,7 +205,7 @@ const employees = [
   
   const admin = {
     email: "ETMS@admin.com",
-    password: "123",
+    password: "126",
   };
   
   // ✅ Used for both seeding initially and manual reset if needed
