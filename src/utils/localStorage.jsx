@@ -1,5 +1,3 @@
-// src/utils/localStorage.jsx
-
 const employees = [
     {
       id: 1,
